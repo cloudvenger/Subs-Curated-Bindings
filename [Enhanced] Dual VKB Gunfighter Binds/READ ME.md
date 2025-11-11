@@ -1,4 +1,4 @@
-# READ ME
+# READ ME - VKB Gunfighter SCG x2 Sub's Currated Bindings
 
 > [!CAUTION]
 > THESE BINDINGS REQUIRE JOYSTICK GREMLIN!
@@ -7,17 +7,23 @@
 
 At the time of making these guides I had not yet distributed VKB GF Binds. These guides have little to do with the joysticks themselves so these videos are just fine to demonstrait how to set them up regardless of what sticks you use.
 
-### vJoy
+### vJoy Install Video
 
-vJoy Install Video - <https://youtu.be/ugjgKPf1-rk?si=nWBojuAKDvjGu3LO> *Check 3rd video for vJoy settings*
+vJoy Install Video - <https://youtu.be/ugjgKPf1-rk?si=nWBojuAKDvjGu3LO>
+> [!WARNING]
+> Check 3rd video for vJoy settings!
 
-### HIDHide
+### HIDHide Install Video
 
-HIDHide Install Video - <https://youtu.be/PyL156AywYQ?si=4XSdzWdzmITRkMPi> *Check 3rd video for HIDHide settings*
+HIDHide Install Video - <https://youtu.be/PyL156AywYQ?si=4XSdzWdzmITRkMPi>
+> [!WARNING]
+> Check 3rd video for HIDHide settings!
 
 ### Joystick Gremlin
 
-Installing Enhanced Binds - <https://youtu.be/mc-ozIogrpI?si=WuwMqg0S-G922i10> *Assumes you have all the programs installed*
+Loading Enhanced Binds - <https://youtu.be/mc-ozIogrpI?si=WuwMqg0S-G922i10>
+> [!WARNING]
+> Assumes you have vJoy, HIDHide, and JG installed!
 
 ## Troubleshooting
 
