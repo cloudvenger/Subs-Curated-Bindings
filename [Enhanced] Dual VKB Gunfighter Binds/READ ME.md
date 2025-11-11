@@ -3,7 +3,7 @@
 > [!CAUTION]
 > THESE BINDINGS REQUIRE JOYSTICK GREMLIN!
 
-## Instalation Video Guides
+# Instalation Video Guides
 
 At the time of making these guides I had not yet distributed VKB GF Binds. These guides have little to do with the joysticks themselves so these videos are just fine to demonstrait how to set them up regardless of what sticks you use.
 
@@ -25,7 +25,7 @@ Loading Enhanced Binds - <https://youtu.be/mc-ozIogrpI?si=WuwMqg0S-G922i10>
 > [!WARNING]
 > Assumes you have vJoy, HIDHide, and JG installed!
 
-## Troubleshooting
+# Troubleshooting
 
 Common Enhanced bind issues and their fixes can be found in the FAQ In Discord
 
@@ -42,7 +42,11 @@ Common Joystick/Star Citizen related issues and their fixes can be found here
 
 There are binds for navigating through MFDs and MFD pages by using the joysticks. But in true `Star Citizen` fashion there is a bug that doesnt allow those binds to be imported. So even though they are in the XML file they dont get laoded into the game. If you wish to use these binds you will need to manually add them. I have provided a screenshot of what binds are supposed to be bound in the SC settings. Just match the in-game settins to what is in that image.
 
-## Text to Speach & Audio Files
+## Freelook Instructions
+
+To use freelook. Go into 3rd person (up on `L-A4 Hat`). Then click the `L-A4 Hat` in to enter free look mode. Now press the `R-A1 Ministick` in, to change the mode to analog (Red Light should turn on). Now you are free to look around. Click and HOLD in on the `L-A4 Hat` to reset view.
+
+## Adding Text to Speach & Audio Files
 
 In this update I removed the "play audio file" action from the JG profile and also the Text To Speach feature. It was causing issues for the users that werent using the feature (i.e. having to restart the profile for mode switching to work). If you would like to use the audio files I created, below are instructions on how to add them.
 
