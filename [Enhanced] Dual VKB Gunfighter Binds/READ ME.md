@@ -3,7 +3,10 @@
 > [!CAUTION]
 > THESE BINDINGS REQUIRE JOYSTICK GREMLIN!
 
-# Instalation Video Guides
+> [!WARNING]
+> My binds are now open source. I need contributers. DM me on discord if you are interested. <https://github.com/SubliminalsTV/Subs-Curated-Bindings>
+
+## Installation Video Guides
 
 At the time of making these guides I had not yet distributed VKB GF Binds. These guides have little to do with the joysticks themselves so these videos are just fine to demonstrait how to set them up regardless of what sticks you use.
 
@@ -25,6 +28,16 @@ Loading Enhanced Binds - <https://youtu.be/mc-ozIogrpI?si=WuwMqg0S-G922i10>
 > [!WARNING]
 > Assumes you have vJoy, HIDHide, and JG installed!
 
+## Known Issues
+
+- MFD Binds do not import properly into Star Citizen, this is a bug. 4.4 seems to have an issue with the `Staggered Fire` bind not importing as well. They also have to be cleared manually to remove them. So you will need to add them manually, but hopefully they should stick after that.
+- I have attached an image with the binds that need to be added. They are all modifier binds.
+- Please contribute to the issue council report. <https://issue-council.robertsspaceindustries.com/projects/STAR-CITIZEN/issues/STARC-133477>
+
+## Freelook Instructions
+
+To use freelook. Go into 3rd person (up on `L-A4 Hat`). Now press the `R-A1 Ministick` in, to change the mode to analog (Red Light should turn on). Now you are free to look around. Click and HOLD in on the `L-A4 Hat` to reset view.
+
 # Troubleshooting
 
 Common Enhanced bind issues and their fixes can be found in the FAQ In Discord
@@ -36,17 +49,9 @@ Common Joystick/Star Citizen related issues and their fixes can be found here
 - <https://discord.com/channels/303670222097874945/1154143410215731201>
 
 > [!TIP]  
-> If you have an issue not found in the FAQ, please create a post in the "#vkb-support forum" on discord if your issue isn't in the checklist or FAQ. Please mention a @PeripheralExpert to ensure we get a ping ASAP - <https://discord.com/channels/303670222097874945/1006954369800998992>
+> If you have an issue not found in either of the FAQs, please take a screenshot of JG, HIDHide, vJoy, and USB Game Controllers and create a post in the "#Enhanced-binds-support" forum on discord. Please mention a @PeripheralExpert to ensure we get a ping ASAP - <https://discord.com/channels/303670222097874945/1006954369800998992>
 
-## Missing MFD Binds
-
-There are binds for navigating through MFDs and MFD pages by using the joysticks. But in true `Star Citizen` fashion there is a bug that doesnt allow those binds to be imported. So even though they are in the XML file they dont get laoded into the game. If you wish to use these binds you will need to manually add them. I have provided a screenshot of what binds are supposed to be bound in the SC settings. Just match the in-game settins to what is in that image.
-
-## Freelook Instructions
-
-To use freelook. Go into 3rd person (up on `L-A4 Hat`). Then click the `L-A4 Hat` in to enter free look mode. Now press the `R-A1 Ministick` in, to change the mode to analog (Red Light should turn on). Now you are free to look around. Click and HOLD in on the `L-A4 Hat` to reset view.
-
-## Adding Text to Speach & Audio Files
+## Text to Speach & Audio Files
 
 In this update I removed the "play audio file" action from the JG profile and also the Text To Speach feature. It was causing issues for the users that werent using the feature (i.e. having to restart the profile for mode switching to work). If you would like to use the audio files I created, below are instructions on how to add them.
 
@@ -80,13 +85,13 @@ In this update I removed the "play audio file" action from the JG profile and al
 > [!WARNING]  
 > You must save the JG profile after making changes to avoid having to repeat this every time JG or your PC restarts. It is a good practice to `Save As` and not overright my original JG file incase you may need to reload that working one in the future.
 
-## Editable PDF's
+## NO MORE ADOBE!!!
 
-No more editable PDFs!!! I have finally escaped Adobe's firm grasp and now moved the the free alternative Affinity. https://www.affinity.studio/get-affinity
-And I havent yet found a way to export to PDF but it no longer matters since Affinty is FREE!! If you wish to edit these files it will be much easier inside Affinity than any other software.
+I have finally escaped Adobe's firm grasp and now moved the the free alternative Affinity. https://www.affinity.studio/get-affinity
+Plus Affinty is now FREE!! Meaning anyone can open the .af files and edit them.
 
 ## Printer Friendly Binding Chart
 
 - The chart labled `[PF]` has a white backgound to conserve ink for people who would like to print it.
 
-- If you have the paid version of adobe acrobat you can open the PNG file inside it and select the "Poster" option in the print settings and change the scale from %100 to 30% and it will spplit the chart into two pages with 1 stick on each page. For other programs just remember that scalled down to 30% its small enough to fit each stick on its own page.
+- PRO TIP: If you have the paid version of adobe acrobat you can open the PNG file inside it and select the "Poster" option in the print settings and change the scale from %100 to 30% and it will spplit the chart into two pages with 1 stick on each page. For other programs just remember that scalled down to 30% its small enough to fit each stick on its own page.
