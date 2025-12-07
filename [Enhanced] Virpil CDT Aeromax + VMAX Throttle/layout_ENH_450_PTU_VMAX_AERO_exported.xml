@@ -1,5 +1,5 @@
-<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="450_ENH_PTU_AM_VMAX">
- <CustomisationUIHeader label="450_ENH_PTU_AM_VMAX" description="" image="">
+<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="ENH_450_PTU_VMAX_AERO">
+ <CustomisationUIHeader label="ENH_450_PTU_VMAX_AERO" description="" image="">
   <devices>
    <keyboard instance="1"/>
    <mouse instance="1"/>
@@ -133,31 +133,28 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_mfd_interact_cycle_backwards_short">
-   <rebind input="js2_button37"/>
+   <rebind input="js2_button30"/>
   </action>
   <action name="v_mfd_interact_cycle_forwards_long">
    <rebind input="js2_ "/>
   </action>
   <action name="v_mfd_interact_cycle_forwards_short">
-   <rebind input="js2_button39"/>
+   <rebind input="js2_button28"/>
   </action>
   <action name="v_mfd_movement_down_long">
-   <rebind input="js2_button40"/>
+   <rebind input="js2_button29"/>
   </action>
   <action name="v_mfd_movement_left_long">
-   <rebind input="js2_button37"/>
+   <rebind input="js2_button30"/>
   </action>
   <action name="v_mfd_movement_right_long">
-   <rebind input="js2_button39"/>
+   <rebind input="js2_button28"/>
   </action>
   <action name="v_mfd_movement_up_long">
-   <rebind input="js2_button38"/>
+   <rebind input="js2_button27"/>
   </action>
-  <action name="v_mfd_soft_select_cast_left_short">
-   <rebind input="js2_button37" multiTap="2"/>
-  </action>
-  <action name="v_mfd_soft_select_cast_right_short">
-   <rebind input="js2_button39" multiTap="2"/>
+  <action name="v_mfd_quick_action_repair_all">
+   <rebind input="js2_button13"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_view">
@@ -856,14 +853,6 @@
   </action>
   <action name="v_toggle_running_lights">
    <rebind input="js2_ "/>
-  </action>
- </actionmap>
- <actionmap name="stopwatch">
-  <action name="stopwatch_reset">
-   <rebind input="js1_button5"/>
-  </action>
-  <action name="stopwatch_trigger">
-   <rebind input="js1_button5"/>
   </action>
  </actionmap>
  <actionmap name="player">
