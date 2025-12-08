@@ -11,10 +11,10 @@
 - [Install Videos](#instalation-video-guides)
 - [Known Issues](#known-issues)
 - [Functions](#functions)
-    - [Freelook](#freelook)
-    - [Eye Tracker Targeting](#eye-tracker-targeting)
-    - [Flip Trigger](#flip-trigger)
-    - [Opional Throttle Module](#optional-throttle-module)
+  - [Freelook](#freelook)
+  - [Eye Tracker Targeting](#eye-tracker-targeting)
+  - [Flip Trigger](#flip-trigger)
+  - [Opional Throttle Module](#optional-throttle-module)
 - [Text To Speach & Audio Files](#adding-text-to-speach--audio-files)
 - [Trouble Shooting](#troubleshooting)
 - [Binding Charts](#binding-charts---no-more-adobe)
@@ -59,11 +59,11 @@ The main way I Target in Star Citizen is via an Eye Tracker. This adds to immers
 
 - Tobii Eye Tracker is next generation head and eye tracking. Unlock unique features that deepen your level of immersion in your favorite games including Star Citizen, Microsoft Flight Simulator, DCS, and more.
 
-    - For more info and 5% off visit https://tobii.subliminal.gg "Purchases using the link and code `subliminal` at checkout support the curration of these binds."
+  - For more info and 5% off visit <https://tobii.subliminal.gg> "Purchases using the link and code `subliminal` at checkout support the curration of these binds."
 
-- For a more budget friendly alternative check out Beam Eye Tracker. It is software only, and does require you to use your own webcam. It has some limitations like playing in a dark room or seeing through your glasses. But if you have a webcam and want to try eye tracking this is a MUST HAVE. There is a free trail on steam. Or you can buy it directly from beam. 
+- For a more budget friendly alternative check out Beam Eye Tracker. It is software only, and does require you to use your own webcam. It has some limitations like playing in a dark room or seeing through your glasses. But if you have a webcam and want to try eye tracking this is a MUST HAVE. There is a free trail on steam. Or you can buy it directly from beam.
 
-    - For more info visit https://beam.eyeware.tech/?via=subliminal "Purchases using the link and purchasing through Beam directly support the curration of these binds."
+  - For more info visit <https://beam.eyeware.tech/?via=subliminal> "Purchases using the link and purchasing through Beam directly support the curration of these binds."
 
 ### Flip Trigger
 
@@ -77,7 +77,7 @@ The flip trigger functions as a Missile Operator Mode switch and fire function
 
 ## Adding Text to Speach & Audio Files
 
-To ensure joystick gremlin and Star Citizen modes are synced I prefer to have JG use TTS or play a sound clip when I switch modes. By default I have included TTS prompts. If you prefer audio files I have some included in the download. 
+To ensure joystick gremlin and Star Citizen modes are synced I prefer to have JG use TTS or play a sound clip when I switch modes. By default I have included TTS prompts. If you prefer audio files I have some included in the download.
 
 ### Adding Audio Files
 
@@ -101,7 +101,7 @@ To ensure joystick gremlin and Star Citizen modes are synced I prefer to have JG
 
 ### Removing Text To Speech when cycling modes
 
-There are multiple ways to remove text to speech if you prefer not to hear it. 
+There are multiple ways to remove text to speech if you prefer not to hear it.
 
 - The easiest way is to reduce the volume in `Windows Volume Mixer`if you prefer not to mess with JG at all.
 
@@ -125,10 +125,9 @@ Common Joystick/Star Citizen related issues and their fixes can be found here
 > [!TIP]  
 > If you have an issue not found in either of the FAQs, please take a screenshot of JG, HIDHide, vJoy, and USB Game Controllers and create a post in the "#Enhanced-binds-support" forum on discord. Please mention a @PeripheralExpert to ensure we get a ping ASAP - <https://discord.com/channels/303670222097874945/1006954369800998992>
 
-
 ## Binding charts - NO MORE ADOBE!!!
 
-I have finally escaped Adobe's firm grasp and now moved the the free, fully featured alternative, Affinity. https://www.affinity.studio/get-affinity
+I have finally escaped Adobe's firm grasp and now moved the the free, fully featured alternative, Affinity. [https://www.affinity.studio/get-affinity](https://www.affinity.studio/get-affinity)
 Affinty is now FREE!! Meaning anyone can open the .af files and edit them.
 
 ### Printer Friendly Binding Chart
