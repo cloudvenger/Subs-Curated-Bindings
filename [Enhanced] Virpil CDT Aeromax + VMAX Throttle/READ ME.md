@@ -1,12 +1,25 @@
-# READ ME - Virpil CDT VMAX Throttle + Cadet Aeromax-R - Sub's Currated Bindings
-
-> [!CAUTION]
-> THESE BINDINGS REQUIRE JOYSTICK GREMLIN!
+# Virpil CDT VMAX Throttle + Cadet Aeromax-R - Sub's Currated Bindings
 
 > [!WARNING]
-> My binds are now open source. I need contributers. DM me on discord if you are interested. <https://github.com/SubliminalsTV/Subs-Curated-Bindings>
+> THESE BINDINGS REQUIRE JOYSTICK GREMLIN!
 
-# Instalation Video Guides
+> [!NOTE]
+> My binds are now open source. I need contributers to assist with small updates when a patch drops. DM me on discord if you are interested. <https://github.com/SubliminalsTV/Subs-Curated-Bindings>
+
+## Navigation
+
+- [Install Videos](#instalation-video-guides)
+- [Known Issues](#known-issues)
+- [Functions](#functions)
+    - [Freelook](#freelook)
+    - [Eye Tracker Targeting](#eye-tracker-targeting)
+    - [Flip Trigger](#flip-trigger)
+    - [Opional Throttle Module](#optional-throttle-module)
+- [Text To Speach & Audio Files](#adding-text-to-speach--audio-files)
+- [Trouble Shooting](#troubleshooting)
+- [Binding Charts](#binding-charts---no-more-adobe)
+
+## Instalation Video Guides
 
 At the time of making these video guides I had not yet distributed Virpil Binds. These guides have little to do with the joysticks themselves so these videos are just fine to demonstrate how to set them up regardless of what sticks you use.
 
@@ -58,6 +71,10 @@ The flip trigger functions as a Missile Operator Mode switch and fire function
 
 - To activate just pull the tigger down and you instantly switch to missile op mode. Pull in on the flip trigger to fire and when you are ready to go back to guns just flip the trigger back up. When you do this JG will preform a macro funtion to release `button 3` and press `button 123` since the AeroMax does not press a button when the trigger is flipped up. `button 123` is a dummy button made to set the operator mode to guns.
 
+### Optional Throttle Module
+
+- If you have purchased the optional Throttle module you will need to manually bind things to it in Star Citizen. I recommend putting it on the left side of the Aermomax-R and using it for mining and salvaging operations like mining laser power and salvage beam spacing. Joystick gremlin should already have this axis mapped if not map the axis to the first available vjoy 2 axis and then bind it game. If you went with 2 of these modules do the same for it and bind what you wish. If you do not have the module I have not bound anything to it so you should be good to go.
+
 ## Adding Text to Speach & Audio Files
 
 To ensure joystick gremlin and Star Citizen modes are synced I prefer to have JG use TTS or play a sound clip when I switch modes. By default I have included TTS prompts. If you prefer audio files I have some included in the download. 
@@ -95,7 +112,7 @@ There are multiple ways to remove text to speech if you prefer not to hear it.
 > [!WARNING]  
 > You must save the JG profile after making changes to avoid having to repeat this every time JG or your PC restarts. It is a good practice to `Save As` and not overright my original JG file incase you may need to reload that working one in the future.
 
-# Troubleshooting
+## Troubleshooting
 
 Common Enhanced bind issues and their fixes can be found in the FAQ In Discord
 
