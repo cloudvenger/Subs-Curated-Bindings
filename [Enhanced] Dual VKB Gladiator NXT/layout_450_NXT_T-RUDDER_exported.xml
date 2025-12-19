@@ -1,5 +1,5 @@
 <ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="ENH_450_NXT_T-RUDDER">
- <CustomisationUIHeader label="ENH_450_NXT" description="" image="">
+ <CustomisationUIHeader label="ENH_450_NXT_T-RUDDER" description="" image="">
   <devices>
    <keyboard instance="1"/>
    <mouse instance="1"/>
