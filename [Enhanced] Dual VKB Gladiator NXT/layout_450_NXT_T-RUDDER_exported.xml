@@ -170,7 +170,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_view_dynamic_zoom_abs">
-   <rebind input="js1_rotz"/>
+   <rebind input="js1_ "/>
   </action>
   <action name="v_view_dynamic_zoom_abs_toggle">
    <rebind input="js1_button7"/>
