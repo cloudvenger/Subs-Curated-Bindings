@@ -159,203 +159,203 @@
         <button description="" id="1">
           <container type="basic">
             <action-set>
-              <remap button="60" vjoy="1" />
+              <remap button="90" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="2">
           <container type="basic">
             <action-set>
-              <remap button="61" vjoy="1" />
+              <remap button="91" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="3">
           <container type="basic">
             <action-set>
-              <remap button="62" vjoy="1" />
+              <remap button="92" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="4">
           <container type="basic">
             <action-set>
-              <remap button="63" vjoy="1" />
+              <remap button="93" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="5">
           <container type="basic">
             <action-set>
-              <remap button="64" vjoy="1" />
+              <remap button="94" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="6">
           <container type="basic">
             <action-set>
-              <remap button="66" vjoy="1" />
+              <remap button="96" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="7">
           <container type="basic">
             <action-set>
-              <remap button="67" vjoy="1" />
+              <remap button="101" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="8">
           <container type="basic">
             <action-set>
-              <remap button="68" vjoy="1" />
+              <remap button="102" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="9">
           <container type="basic">
             <action-set>
-              <remap button="69" vjoy="1" />
+              <remap button="103" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="10">
           <container type="basic">
             <action-set>
-              <remap button="70" vjoy="1" />
+              <remap button="104" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="11">
           <container type="basic">
             <action-set>
-              <remap button="61" vjoy="1" />
+              <remap button="95" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="12">
           <container type="basic">
             <action-set>
-              <remap button="62" vjoy="1" />
+              <remap button="96" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="13">
           <container type="basic">
             <action-set>
-              <remap button="63" vjoy="1" />
+              <remap button="97" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="14">
           <container type="basic">
             <action-set>
-              <remap button="64" vjoy="1" />
+              <remap button="98" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="15">
           <container type="basic">
             <action-set>
-              <remap button="65" vjoy="1" />
+              <remap button="99" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="16">
           <container type="basic">
             <action-set>
-              <remap button="76" vjoy="1" />
+              <remap button="110" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="17">
           <container type="basic">
             <action-set>
-              <remap button="77" vjoy="1" />
+              <remap button="111" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="18">
           <container type="basic">
             <action-set>
-              <remap button="78" vjoy="1" />
+              <remap button="112" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="19">
           <container type="basic">
             <action-set>
-              <remap button="79" vjoy="1" />
+              <remap button="113" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="20">
           <container type="basic">
             <action-set>
-              <remap button="80" vjoy="1" />
+              <remap button="114" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="21">
           <container type="basic">
             <action-set>
-              <remap button="81" vjoy="1" />
+              <remap button="115" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="22">
           <container type="basic">
             <action-set>
-              <remap button="82" vjoy="1" />
+              <remap button="116" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="23">
           <container type="basic">
             <action-set>
-              <remap button="83" vjoy="1" />
+              <remap button="117" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="24">
           <container type="basic">
             <action-set>
-              <remap button="84" vjoy="1" />
+              <remap button="118" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="25">
           <container type="basic">
             <action-set>
-              <remap button="74" vjoy="1" />
+              <remap button="108" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="26">
           <container type="basic">
             <action-set>
-              <remap button="75" vjoy="1" />
+              <remap button="109" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="27">
           <container type="basic">
             <action-set>
-              <remap button="71" vjoy="1" />
+              <remap button="105" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="28">
           <container type="basic">
             <action-set>
-              <remap button="72" vjoy="1" />
+              <remap button="106" vjoy="1" />
             </action-set>
           </container>
         </button>
         <button description="" id="29">
           <container type="basic">
             <action-set>
-              <remap button="73" vjoy="1" />
+              <remap button="48" vjoy="1" />
             </action-set>
           </container>
         </button>
@@ -728,7 +728,7 @@
         <button description="" id="6">
           <container type="basic">
             <action-set>
-              <remap button="70" vjoy="1" />
+              <remap button="96" vjoy="1" />
             </action-set>
           </container>
         </button>

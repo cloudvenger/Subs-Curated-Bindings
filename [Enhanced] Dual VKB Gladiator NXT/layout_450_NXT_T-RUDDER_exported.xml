@@ -246,7 +246,7 @@
    <rebind input="js1_button13"/>
   </action>
   <action name="v_flight_advanced_hud_toggle">
-   <rebind input="js1_button77"/>
+   <rebind input="js1_button52"/>
   </action>
   <action name="v_ifcs_speed_limiter_decrement">
    <rebind input="js1_hat1_down"/>
@@ -270,7 +270,7 @@
    <rebind input="js1_button22"/>
   </action>
   <action name="v_ifcs_toggle_gforce_safety">
-   <rebind input="js1_button76"/>
+   <rebind input="js1_button51"/>
   </action>
   <action name="v_master_mode_cycle">
    <rebind input="js1_button124"/>
@@ -382,7 +382,7 @@
  </actionmap>
  <actionmap name="spaceship_docking">
   <action name="v_dock_toggle_view">
-   <rebind input="js1_button62"/>
+   <rebind input="js1_button37"/>
   </action>
   <action name="v_invoke_docking">
    <rebind input="js1_button13"/>
@@ -626,10 +626,10 @@
    <rebind input="js2_ "/>
   </action>
   <action name="turret_remote_exit">
-   <rebind input="js1_button76"/>
+   <rebind input="js1_button51"/>
   </action>
   <action name="turret_toggle_mouse_mode">
-   <rebind input="js1_button79"/>
+   <rebind input="js1_button54"/>
   </action>
   <action name="turret_yaw">
    <rebind input="js1_slider1"/>
@@ -728,7 +728,7 @@
    <rebind input="js1_button28"/>
   </action>
   <action name="v_weapon_bombing_hud_range_reset">
-   <rebind input="js1_button65"/>
+   <rebind input="js1_button40"/>
   </action>
   <action name="v_weapon_bombing_toggle_desired_impact_point">
    <rebind input="js1_button62"/>
@@ -1255,7 +1255,7 @@
    <rebind input="js1_button94" activationMode="double_tap"/>
   </action>
   <action name="pl_exit">
-   <rebind input="js1_button78"/>
+   <rebind input="js1_button53"/>
   </action>
   <action name="respawn">
    <rebind input="js1_button60"/>
@@ -1400,7 +1400,7 @@
    <rebind input="js1_button9"/>
   </action>
   <action name="headtrack_recenter_device">
-   <rebind input="js1_button64"/>
+   <rebind input="js1_button39"/>
   </action>
  </actionmap>
  <actionmap name="player_choice">
