@@ -297,7 +297,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_roll">
-   <rebind input="js1_rotz"/>
+   <rebind input="js1_z"/>
   </action>
   <action name="v_roll_left">
    <rebind input="js2_ "/>
@@ -529,7 +529,7 @@
    <rebind input="js1_button28"/>
   </action>
   <action name="v_mining_throttle">
-   <rebind input="js1_z"/>
+   <rebind input="js1_rotz"/>
   </action>
   <action name="v_mining_use_consumable1">
    <rebind input="js1_button80"/>
@@ -555,7 +555,7 @@
    <rebind input="js1_button23"/>
   </action>
   <action name="v_salvage_beam_spacing_abs">
-   <rebind input="js1_z"/>
+   <rebind input="js1_rotz"/>
   </action>
   <action name="v_salvage_cycle_modifiers_left">
    <rebind input="js1_button73" activationMode="double_tap"/>
@@ -928,7 +928,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="gp_movex">
-   <rebind input="js1_rotz"/>
+   <rebind input="js1_z"/>
   </action>
   <action name="gp_movey">
    <rebind input="js1_slider1"/>
@@ -1016,7 +1016,7 @@
    <rebind input="js1_button27"/>
   </action>
   <action name="eva_roll">
-   <rebind input="js1_rotz"/>
+   <rebind input="js1_z"/>
   </action>
   <action name="eva_roll_left">
    <rebind input="js2_ "/>
