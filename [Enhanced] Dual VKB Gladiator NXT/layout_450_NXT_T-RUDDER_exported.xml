@@ -849,16 +849,16 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_power_toggle">
-   <rebind input="js1_button66"/>
+   <rebind input="js1_button41"/>
   </action>
   <action name="v_power_toggle_shields">
-   <rebind input="js1_button67"/>
+   <rebind input="js1_button42"/>
   </action>
   <action name="v_power_toggle_thrusters">
-   <rebind input="js1_button68"/>
+   <rebind input="js1_button43"/>
   </action>
   <action name="v_power_toggle_weapons">
-   <rebind input="js1_button69"/>
+   <rebind input="js1_button44"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_hud">
