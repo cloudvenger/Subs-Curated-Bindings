@@ -811,6 +811,7 @@
   </action>
   <action name="v_engineering_assignment_reset">
    <rebind input="js1_hat3_up"/>
+   <rebind input="js1_hat4_up"/>
   </action>
   <action name="v_engineering_assignment_shields_decrease">
    <rebind input="js1_hat4_right"/>

@@ -194,7 +194,7 @@
         <button description="" id="6">
           <container type="basic">
             <action-set>
-              <remap button="96" vjoy="1" />
+              <remap button="100" vjoy="1" />
             </action-set>
           </container>
         </button>
@@ -355,7 +355,7 @@
         <button description="" id="29">
           <container type="basic">
             <action-set>
-              <remap button="48" vjoy="1" />
+              <remap button="107" vjoy="1" />
             </action-set>
           </container>
         </button>
@@ -728,7 +728,7 @@
         <button description="" id="6">
           <container type="basic">
             <action-set>
-              <remap button="96" vjoy="1" />
+              <remap button="70" vjoy="1" />
             </action-set>
           </container>
         </button>
@@ -889,7 +889,7 @@
         <button description="" id="29">
           <container type="basic">
             <action-set>
-              <remap button="18" vjoy="1" />
+              <remap button="77" vjoy="1" />
             </action-set>
           </container>
         </button>
@@ -1003,6 +1003,40 @@
     </device>
     <device device-guid="{18B24B30-F2AB-11EC-8002-444553540000}" label="" name=" VKBsim Gladiator EVO  L  " type="joystick">
       <mode name="Auxiliary Mode">
+        <axis description="" id="1" />
+        <axis description="" id="2" />
+        <axis description="" id="3" />
+        <axis description="" id="4" />
+        <axis description="" id="5" />
+        <axis description="" id="6" />
+        <button description="" id="1" />
+        <button description="" id="2" />
+        <button description="" id="3">
+          <container activate-on="press" delay="0.5" type="tempo">
+            <action-set>
+              <remap button="3" vjoy="1" />
+            </action-set>
+            <action-set>
+              <cycle-modes>
+                <mode name="SCM Mode" />
+              </cycle-modes>
+              <remap button="125" vjoy="1" />
+              <remap button="128" vjoy="1" />
+              <text-to-speech text="SCM Mode Enabled" />
+            </action-set>
+          </container>
+        </button>
+        <button description="" id="4" />
+        <button description="" id="5" />
+        <button description="" id="6" />
+        <button description="" id="7" />
+        <button description="" id="8" />
+        <button description="" id="9" />
+        <button description="" id="10" />
+        <button description="" id="11" />
+        <button description="" id="12" />
+        <button description="" id="13" />
+        <button description="" id="14" />
         <axis description="" id="1" />
         <axis description="" id="2" />
         <axis description="" id="3" />
@@ -1471,7 +1505,7 @@
         <hat description="" id="1">
           <container type="basic">
             <action-set>
-              <remap hat="4" vjoy="1" />
+              <remap hat="2" vjoy="1" />
             </action-set>
           </container>
         </hat>
